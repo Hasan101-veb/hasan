@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Verilənlər bazası və gizli məlumatlar
+instance/
+*.db
+*.sqlite3
+.env
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
